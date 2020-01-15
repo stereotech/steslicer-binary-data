@@ -1,11 +1,9 @@
-project(steslicer-binary-data)
+project(SteSlicerBinaryData)
 
 cmake_minimum_required(VERSION 2.8.12)
 
 include(GNUInstallDirs)
 
-option(ENABLE_FIRMWARE_INSTALL
-       "Enable installation of firmware files" ON)
 option(ENABLE_I18N_INSTALL
        "Enable installation of language files" ON)
 
