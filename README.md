@@ -1,2 +1,2 @@
-# cura-binary-data
-Contains binary data for Cura releases, like compiled translations and firmware.
+# steslicer-binary-data
+Contains binary data for STE Slicer releases, like compiled translations and firmware.
